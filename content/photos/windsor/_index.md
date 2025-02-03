@@ -1,0 +1,6 @@
++++
+title = "Windsor"
+type = "gallery"
++++
+
+
